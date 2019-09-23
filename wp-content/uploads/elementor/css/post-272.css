@@ -1,0 +1,34 @@
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-container {min-height: 600px;}
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-272 .elementor-element.elementor-element-774e43b:not(.elementor-motion-effects-element-type-background), .elementor-272 .elementor-element.elementor-element-774e43b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;background-image: url("https://daybreakintelligence.com.br/wp-content/uploads/2019/04/man-with-laptop-computer-giving-financial-advice-EXHCZMG.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-background-overlay {background-color: rgba(22,22,22,.99);opacity: .5;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-272 .elementor-element.elementor-element-774e43b .elementor-background-overlay {filter: brightness(18%) contrast(100%) saturate(100%) blur(5.9px) hue-rotate(0deg);}
+.elementor-272 .elementor-element.elementor-element-774e43b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-shape-bottom .elementor-shape-fill {fill: #f9f9f9;}
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-shape-bottom svg {height: 70px;transform: translateX(-50%) rotateY(180deg);}
+.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-shape-bottom {z-index: 2;pointer-events: none;}
+.elementor-272 .elementor-element.elementor-element-e4ba663 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-272 .elementor-element.elementor-element-856aea2 {text-align: right;}
+.elementor-272 .elementor-element.elementor-element-856aea2.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-272 .elementor-element.elementor-element-856aea2 .elementor-heading-title {font-size: 13px;font-weight: 400;text-transform: uppercase;letter-spacing: 2px;}
+.elementor-272 .elementor-element.elementor-element-856aea2 > .elementor-widget-container {margin: 0px 0px 5px 0px;}
+.elementor-272 .elementor-element.elementor-element-8a6423d {text-align: right;}
+.elementor-272 .elementor-element.elementor-element-8a6423d.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-272 .elementor-element.elementor-element-8a6423d .elementor-heading-title {font-size: 45px;font-weight: 700;}
+.elementor-272 .elementor-element.elementor-element-df74b49:not(.elementor-motion-effects-element-type-background), .elementor-272 .elementor-element.elementor-element-df74b49 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #f9f9f9;}
+.elementor-272 .elementor-element.elementor-element-df74b49 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 60px 0px 40px 0px;}
+.elementor-272 .elementor-element.elementor-element-df74b49 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-272 .elementor-element.elementor-element-b302077 > .elementor-element-populated {padding: 0px 30px 0px 30px;}
+body.elementor-page-272 #page_caption, .elementor-page-title {display: none;}
+@media (max-width:1024px) {.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-shape-bottom svg {height: 50px;}
+	.elementor-272 .elementor-element.elementor-element-8a6423d .elementor-heading-title {font-size: 36px;}
+	.elementor-272 .elementor-element.elementor-element-df74b49 {padding: 60px 0px 0px 0px;}
+	.elementor-272 .elementor-element.elementor-element-b302077 > .elementor-element-populated {padding: 0px 30px 0px 30px;}}
+@media (max-width:767px) {.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-container {min-height: 400px;}
+	.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-container:after {content: "";min-height: inherit;}
+	.elementor-272 .elementor-element.elementor-element-774e43b > .elementor-shape-bottom svg {height: 40px;}
+	.elementor-272 .elementor-element.elementor-element-774e43b {padding: 40px 0px 20px 0px;}
+	.elementor-272 .elementor-element.elementor-element-e4ba663 > .elementor-element-populated {padding: 0px 30px 0px 30px;}
+	.elementor-272 .elementor-element.elementor-element-8a6423d .elementor-heading-title {font-size: 28px;}
+	.elementor-272 .elementor-element.elementor-element-df74b49 {padding: 60px 0px 0px 0px;}
+	.elementor-272 .elementor-element.elementor-element-b302077 > .elementor-element-populated {padding: 0px 20px 0px 20px;}}

@@ -1,0 +1,17 @@
+.elementor-2000 .elementor-element.elementor-element-ecaf6d5:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-2000 .elementor-element.elementor-element-ecaf6d5 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://themes.themegoods.com/dotlife/demo/wp-content/uploads/2019/05/happy-woman-smiling-on-gray-background-PBHRA3B.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-2000 .elementor-element.elementor-element-ecaf6d5 > .elementor-element-populated >  .elementor-background-overlay {background-color: #000;opacity: .1;filter: brightness(100%) contrast(100%) saturate(100%) blur(0px) hue-rotate(0deg);}
+.elementor-2000 .elementor-element.elementor-element-ecaf6d5 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 70px 0px 90px 0px;}
+.elementor-2000 .elementor-element.elementor-element-ecaf6d5 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-2000 .elementor-element.elementor-element-fa71dd2 {padding: 0px 0px 0px 30px;}
+.elementor-2000 .elementor-element.elementor-element-56cd299 {text-align: left;}
+.elementor-2000 .elementor-element.elementor-element-56cd299.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-2000 .elementor-element.elementor-element-56cd299 .elementor-heading-title {font-size: 34px;line-height: 1.3em;}
+.elementor-2000 .elementor-element.elementor-element-214fef5 .elementor-text-editor {text-align: left;}
+.elementor-2000 .elementor-element.elementor-element-214fef5 {color: #fff;}
+.elementor-2000 .elementor-element.elementor-element-214fef5 > .elementor-widget-container {margin: 10px 0px 0px 0px;padding: 0px 40px 0px 0px;}
+.elementor-2000 .elementor-element.elementor-element-1a18f69 > .elementor-widget-container {margin: 10px 0px 0px 0px;}
+.elementor-2000 .elementor-element.elementor-element-1a18f69 {width: auto;max-width: auto;align-self: flex-start;}
+@media (min-width:768px) {.elementor-2000 .elementor-element.elementor-element-3b1dda8 {width: 45%;}
+	.elementor-2000 .elementor-element.elementor-element-44a8a50 {width: 55%;}}
+@media (max-width:767px) {.elementor-2000 .elementor-element.elementor-element-ecaf6d5 > .elementor-element-populated {padding: 70px 20px 80px 20px;}
+	.elementor-2000 .elementor-element.elementor-element-56cd299 .elementor-heading-title {font-size: 26px;}}

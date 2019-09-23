@@ -1,0 +1,41 @@
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-container {min-height: 600px;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b:not(.elementor-motion-effects-element-type-background), .elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;background-image: url("https://themes.themegoods.com/dotlife/demo/wp-content/uploads/2019/04/business-and-deadlines-P6MPLG7.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-shape-bottom .elementor-shape-fill {fill: #f9f9f9;}
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-shape-bottom svg {height: 70px;transform: translateX(-50%) rotateY(180deg);}
+.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-shape-bottom {z-index: 2;pointer-events: none;}
+.elementor-2778 .elementor-element.elementor-element-249d1ca > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-2778 .elementor-element.elementor-element-2d98e2f {text-align: center;}
+.elementor-2778 .elementor-element.elementor-element-2d98e2f.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-2778 .elementor-element.elementor-element-2d98e2f .elementor-heading-title {font-size: 13px;font-weight: 400;text-transform: uppercase;letter-spacing: 2px;}
+.elementor-2778 .elementor-element.elementor-element-2d98e2f > .elementor-widget-container {margin: 0px 0px 5px 0px;}
+.elementor-2778 .elementor-element.elementor-element-9b70812 {text-align: center;}
+.elementor-2778 .elementor-element.elementor-element-9b70812.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-2778 .elementor-element.elementor-element-9b70812 .elementor-heading-title {font-size: 45px;font-weight: 700;}
+.elementor-2778 .elementor-element.elementor-element-d24af5d {margin-top: 60px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+.elementor-2778 .elementor-element.elementor-element-d885258 > .elementor-element-populated {padding: 0px 40px 0px 40px;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__img {height: 250px;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__img--hover {height: 250px;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__price {top: 215px;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__title a {color: #4e4e4e;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__info {background-color: #fff;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 div.course_grid_container .portfolio_classic_grid_wrapper {text-align: left;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__info .card__date {color: #9a9a9a;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__info .card__excerpt {color: #9a9a9a;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 .course_grid_container .portfolio_classic_grid_wrapper .card__info .card__meta {color: #9a9a9a;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 form[name="search-course"] .search-course-input {background-color: #fff;border-color: #d7d8d6;color: #222;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 form[name="search-course"] .search-course-input::focus {border-color: #f25c05;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 form.learn-press-search-course-form .lp-button {background-color: #f25c05;border-color: #f25c05;color: #fff;}
+.elementor-2778 .elementor-element.elementor-element-05fcb21 form.learn-press-search-course-form .lp-button:hover {background-color: rgba(256,256,256,0);border-color: #f25c05;color: #f25c05;}
+@media (max-width:1024px) {.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-shape-bottom svg {height: 50px;}
+	.elementor-2778 .elementor-element.elementor-element-9b70812 .elementor-heading-title {font-size: 36px;}}
+@media (max-width:767px) {.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-container {min-height: 400px;}
+	.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-container:after {content: "";min-height: inherit;}
+	.elementor-2778 .elementor-element.elementor-element-76ce29b > .elementor-shape-bottom svg {height: 40px;}
+	.elementor-2778 .elementor-element.elementor-element-76ce29b {padding: 40px 0px 20px 0px;}
+	.elementor-2778 .elementor-element.elementor-element-249d1ca > .elementor-element-populated {padding: 0px 30px 0px 30px;}
+	.elementor-2778 .elementor-element.elementor-element-9b70812 .elementor-heading-title {font-size: 28px;}
+	.elementor-2778 .elementor-element.elementor-element-d24af5d {margin-top: 40px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+	.elementor-2778 .elementor-element.elementor-element-d885258 > .elementor-element-populated {padding: 0px 20px 0px 20px;}}

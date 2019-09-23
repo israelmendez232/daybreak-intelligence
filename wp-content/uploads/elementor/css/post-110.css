@@ -1,0 +1,62 @@
+.elementor-110 .elementor-element.elementor-element-792f6a2a:not(.elementor-motion-effects-element-type-background), .elementor-110 .elementor-element.elementor-element-792f6a2a > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: rgba(255,255,255,0);}
+.elementor-110 .elementor-element.elementor-element-792f6a2a {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10px 0px 10px 0px;}
+.elementor-110 .elementor-element.elementor-element-792f6a2a > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-bc-flex-widget .elementor-110 .elementor-element.elementor-element-6f91b32e.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-110 .elementor-element.elementor-element-6f91b32e.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-110 .elementor-element.elementor-element-422681eb {text-align: left;}
+.elementor-110 .elementor-element.elementor-element-422681eb .elementor-image img {width: 204px;}
+.elementor-110 .elementor-element.elementor-element-1cbe6af9 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li a {font-size: 14px;font-weight: 700;color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li {margin: 0px 20px 0px 0px;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav {text-align: left;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul.sub-menu li {padding: 5px 20px 5px 20px;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul.sub-menu {text-align: left;border-radius: 5px;background: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li a:hover {color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav ul li a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper div .nav li > a:before {background-color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-item > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-parent > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-ancestor > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul:not(.sub-menu) li.current-menu-item a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li.current-menu-parent  ul li.current-menu-item a {color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-item > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-parent > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav > li.current-menu-ancestor > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul:not(.sub-menu) li.current-menu-item a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li.current-menu-parent  ul li.current-menu-item a:before {background-color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li a {color: #222;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li a:hover {color: #0067da;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li > a:before {background-color: #0067da;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-item > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-parent > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-ancestor > a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li ul:not(.sub-menu) li.current-menu-item a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li.current-menu-parent  ul li.current-menu-item a, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li.current-menu-parent ul > li.current-menu-item > a {color: #0067da;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-item > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-parent > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul > li.current-menu-ancestor > a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li ul:not(.sub-menu) li.current-menu-item a:before, .elementor-110 .elementor-element.elementor-element-4d6a7995 .tg_navigation_wrapper .nav li ul li.current-menu-parent  ul li.current-menu-item a:before {background-color: #0067da;}
+.elementor-110 .elementor-element.elementor-element-4d6a7995 {width: auto;max-width: auto;align-self: center;}
+.elementor-bc-flex-widget .elementor-110 .elementor-element.elementor-element-19188886.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-110 .elementor-element.elementor-element-19188886.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-110 .elementor-element.elementor-element-1ea0d38d {text-align: right;width: auto;max-width: auto;align-self: center;}
+.elementor-110 .elementor-element.elementor-element-1ea0d38d.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-110 .elementor-element.elementor-element-1ea0d38d .elementor-heading-title {font-size: 13px;}
+.elementor-110 .elementor-element.elementor-element-1ea0d38d > .elementor-widget-container {padding: 0px 15px 0px 15px;border-style: solid;border-width: 0px 1px 0px 0px;border-color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4f732ea1 {text-align: right;width: auto;max-width: auto;align-self: center;}
+.elementor-110 .elementor-element.elementor-element-4f732ea1.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-110 .elementor-element.elementor-element-4f732ea1 .elementor-heading-title {font-size: 13px;}
+.elementor-110 .elementor-element.elementor-element-4f732ea1 > .elementor-widget-container {padding: 0px 0px 0px 15px;}
+.elementor-bc-flex-widget .elementor-110 .elementor-element.elementor-element-3b3e3a26.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-110 .elementor-element.elementor-element-3b3e3a26.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-110 .elementor-element.elementor-element-3b3e3a26 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-110 .elementor-element.elementor-element-3b973b7f .elementor-button .elementor-align-icon-right {margin-left: 0px;}
+.elementor-110 .elementor-element.elementor-element-3b973b7f .elementor-button .elementor-align-icon-left {margin-right: 0px;}
+.elementor-110 .elementor-element.elementor-element-3b973b7f a.elementor-button, .elementor-110 .elementor-element.elementor-element-3b973b7f .elementor-button {font-size: 18px;fill: #fff;color: #fff;background-color: rgba(255,255,255,0);padding: 0px 0px 0px 0px;}
+.elementor-110 .elementor-element.elementor-element-3b973b7f > .elementor-widget-container {margin: 10px 0px 0px 10px;}
+.elementor-110 .elementor-element.elementor-element-3b973b7f {width: auto;max-width: auto;align-self: center;}
+body.elementor-page-110:not(.elementor-motion-effects-element-type-background), body.elementor-page-110 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #000;}
+@media (max-width:1024px) {.elementor-110 .elementor-element.elementor-element-6f91b32e > .elementor-element-populated {padding: 0px 0px 0px 30px;}
+	.elementor-110 .elementor-element.elementor-element-19188886 > .elementor-element-populated {padding: 0px 30px 0px 0px;}
+	.elementor-110 .elementor-element.elementor-element-3b973b7f > .elementor-widget-container {margin: 10px 0px 0px 0px;padding: 0px 30px 0px 0px;}}
+@media (min-width:768px) {.elementor-110 .elementor-element.elementor-element-6f91b32e {width: 22.564%;}
+	.elementor-110 .elementor-element.elementor-element-1cbe6af9 {width: 35.645%;}
+	.elementor-110 .elementor-element.elementor-element-19188886 {width: 38.455%;}
+	.elementor-110 .elementor-element.elementor-element-3b3e3a26 {width: 3.336%;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-110 .elementor-element.elementor-element-6f91b32e {width: 60%;}
+	.elementor-110 .elementor-element.elementor-element-19188886 {width: 50%;}
+	.elementor-110 .elementor-element.elementor-element-3b3e3a26 {width: 40%;}}
+@media (max-width:767px) {.elementor-110 .elementor-element.elementor-element-792f6a2a {padding: 20px 0px 20px 0px;}
+	.elementor-110 .elementor-element.elementor-element-6f91b32e {width: 70%;}
+	.elementor-110 .elementor-element.elementor-element-6f91b32e > .elementor-element-populated {margin: 0px 0px 0px 20px;padding: 0px 0px 0px 0px;}
+	.elementor-110 .elementor-element.elementor-element-422681eb {text-align: left;}
+	.elementor-110 .elementor-element.elementor-element-422681eb .elementor-image img {width: 180px;}
+	.elementor-110 .elementor-element.elementor-element-1cbe6af9 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+	.elementor-110 .elementor-element.elementor-element-19188886 {width: 100%;}
+	.elementor-110 .elementor-element.elementor-element-3b3e3a26 {width: 30%;}
+	.elementor-110 .elementor-element.elementor-element-3b3e3a26 > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 20px 0px 0px;}
+	.elementor-110 .elementor-element.elementor-element-3b973b7f > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}}

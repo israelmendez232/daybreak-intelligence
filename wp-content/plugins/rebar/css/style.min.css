@@ -1,0 +1,28 @@
+#md-rebar-wrapper {z-index: 9999;}
+.style-default #md-rebar-element {box-shadow: 1px 1px 5px #1976d2;}
+.style-gradient #md-rebar-element {background: #c92c2c;background: linear-gradient(to right,#c92c2c 0,#eae42c 50%,#3cad26 100%);}
+.style-rounded #md-rebar-element {-webkit-border-top-right-radius: 50px;-webkit-bottom-right-radius: 50px;-moz-border-top-right-radius: 50px;-moz-border-bottom-right-radius: 50px;border-top-right-radius: 50px;border-bottom-right-radius: 50px;}
+.style-plastic #md-rebar-element {box-shadow: inset 0 2px 9px rgba(255,255,255,.3),inset 0 -2px 6px rgba(0,0,0,.4);}
+.style-animated #md-rebar-element {position: relative;}
+.style-animated #md-rebar-element:after {content: "";position: absolute;top: 0;left: 0;bottom: 0;right: 0;background-image: linear-gradient(-45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent);z-index: 1;background-size: 50px 50px;-webkit-animation: md-rebar-animated 2s linear infinite;animation: md-rebar-animated 2s linear infinite;overflow: hidden;}
+@-webkit-keyframes md-rebar-animated {0% {background-position: 0 0;}
+	100% {background-position: 50px 50px;}}
+@keyframes md-rebar-animated {0% {background-position: 0 0;}
+	100% {background-position: 50px 50px;}}
+.style-ios7 #md-rebar-element {background: -webkit-linear-gradient(left,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55);background-image: linear-gradient(to right,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55);}
+.style-shine #md-rebar-element {position: relative;}
+.style-shine #md-rebar-element:after {content: "";opacity: 0;position: absolute;top: 0;right: 0;bottom: 0;left: 0;background: #fff;border-radius: 3px;-webkit-animation: md-rebar-animate-shine 2s ease-out infinite;animation: md-rebar-animate-shine 2s ease-out infinite;}
+@-webkit-keyframes md-rebar-animate-shine {0% {opacity: 0;width: 0;}
+	50% {opacity: .5;}
+	100% {opacity: 0;width: 95%;}}
+@keyframes md-rebar-animate-shine {0% {opacity: 0;width: 0;}
+	50% {opacity: .5;}
+	100% {opacity: 0;width: 95%;}}
+.style-glow #md-rebar-element {position: relative;}
+.style-glow #md-rebar-element:after {content: "";position: absolute;top: 0;right: 0;bottom: 0;left: 0;box-shadow: 0 5px 5px rgba(255,255,255,.7) inset,0 -5px 5px rgba(255,255,255,.7) inset;-webkit-animation: md-rebar-animate-glow 1s ease-out infinite;animation: md-rebar-animate-glow 1s ease-out infinite;}
+@-webkit-keyframes md-rebar-animate-glow {0% {-webkit-box-shadow: 0 5px 5px rgba(255,255,255,.7) inset,0 -5px 5px rgba(255,255,255,.7) inset;}
+	50% {-webkit-box-shadow: 0 5px 5px rgba(255,255,255,.3) inset,0 -5px 5px rgba(255,255,255,.3) inset;}
+	100% {-webkit-box-shadow: 0 5px 5px rgba(255,255,255,.7) inset,0 -5px 5px rgba(255,255,255,.7) inset;}}
+@keyframes md-rebar-animate-glow {0% {box-shadow: 0 5px 5px rgba(255,255,255,.7) inset,0 -5px 5px rgba(255,255,255,.7) inset;}
+	50% {box-shadow: 0 5px 5px rgba(255,255,255,.3) inset,0 -5px 5px rgba(255,255,255,.3) inset;}
+	100% {box-shadow: 0 5px 5px rgba(255,255,255,.7) inset,0 -5px 5px rgba(255,255,255,.7) inset;}}

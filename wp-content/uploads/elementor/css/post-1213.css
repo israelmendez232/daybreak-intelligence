@@ -1,0 +1,54 @@
+.elementor-1213 .elementor-element.elementor-element-7afbde1:not(.elementor-motion-effects-element-type-background), .elementor-1213 .elementor-element.elementor-element-7afbde1 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-1213 .elementor-element.elementor-element-7afbde1 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 5px 0px 5px 0px;}
+.elementor-1213 .elementor-element.elementor-element-7afbde1 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-bc-flex-widget .elementor-1213 .elementor-element.elementor-element-2c57e01.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-1213 .elementor-element.elementor-element-2c57e01.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-1213 .elementor-element.elementor-element-2c57e01 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-1213 .elementor-element.elementor-element-addeeff {text-align: left;}
+.elementor-1213 .elementor-element.elementor-element-addeeff .elementor-image img {width: 150px;}
+.elementor-1213 .elementor-element.elementor-element-33ac076 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li a {font-size: 14px;font-weight: 700;color: #222;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li {margin: 0px 20px 0px 0px;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav {text-align: left;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul.sub-menu li {padding: 5px 20px 5px 20px;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul.sub-menu {text-align: left;border-radius: 5px;background: #fff;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li a:hover {color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav ul li a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper div .nav li > a:before {background-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-item > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-parent > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-ancestor > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul:not(.sub-menu) li.current-menu-item a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li.current-menu-parent  ul li.current-menu-item a {color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-item > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-parent > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav > li.current-menu-ancestor > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul:not(.sub-menu) li.current-menu-item a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li.current-menu-parent  ul li.current-menu-item a:before {background-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li a {color: #222;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li a:hover {color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li > a:before {background-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-item > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-parent > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-ancestor > a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li ul:not(.sub-menu) li.current-menu-item a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li.current-menu-parent  ul li.current-menu-item a, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li.current-menu-parent ul > li.current-menu-item > a {color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-item > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-parent > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul > li.current-menu-ancestor > a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li ul:not(.sub-menu) li.current-menu-item a:before, .elementor-1213 .elementor-element.elementor-element-ba597c4 .tg_navigation_wrapper .nav li ul li.current-menu-parent  ul li.current-menu-item a:before {background-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-ba597c4 {width: auto;max-width: auto;align-self: center;}
+.elementor-bc-flex-widget .elementor-1213 .elementor-element.elementor-element-74d47df.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-1213 .elementor-element.elementor-element-74d47df.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-1213 .elementor-element.elementor-element-74d47df > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+.elementor-1213 .elementor-element.elementor-element-9445029 a.elementor-button, .elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button {font-size: 12px;font-weight: 700;text-transform: uppercase;letter-spacing: 2px;fill: #fff;color: #fff;background-color: #0067da;border-radius: 50px 50px 50px 50px;padding: 10px 30px 7px 30px;}
+.elementor-1213 .elementor-element.elementor-element-9445029 a.elementor-button:hover, .elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button:hover, .elementor-1213 .elementor-element.elementor-element-9445029 a.elementor-button:focus, .elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button:focus {color: #0067da;background-color: rgba(255,255,255,0);border-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-9445029 a.elementor-button:hover svg, .elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button:hover svg, .elementor-1213 .elementor-element.elementor-element-9445029 a.elementor-button:focus svg, .elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button:focus svg {fill: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-9445029 .elementor-button {border-style: solid;border-width: 2px 2px 2px 2px;border-color: #0067da;}
+.elementor-1213 .elementor-element.elementor-element-9445029 {width: auto;max-width: auto;align-self: center;}
+.elementor-1213 .elementor-element.elementor-element-7f12535 .elementor-button .elementor-align-icon-right {margin-left: 0px;}
+.elementor-1213 .elementor-element.elementor-element-7f12535 .elementor-button .elementor-align-icon-left {margin-right: 0px;}
+.elementor-1213 .elementor-element.elementor-element-7f12535 a.elementor-button, .elementor-1213 .elementor-element.elementor-element-7f12535 .elementor-button {font-size: 18px;fill: #4a4a4a;color: #4a4a4a;background-color: rgba(255,255,255,0);padding: 0px 0px 0px 0px;}
+.elementor-1213 .elementor-element.elementor-element-7f12535 > .elementor-widget-container {margin: 10px 0px 0px 10px;}
+.elementor-1213 .elementor-element.elementor-element-7f12535 {width: auto;max-width: auto;align-self: center;}
+@media (max-width:1024px) {.elementor-1213 .elementor-element.elementor-element-2c57e01 > .elementor-element-populated {padding: 0px 0px 0px 30px;}
+	.elementor-1213 .elementor-element.elementor-element-7f12535 > .elementor-widget-container {margin: 10px 30px 0px 20px;}}
+@media (min-width:768px) {.elementor-1213 .elementor-element.elementor-element-2c57e01 {width: 25%;}
+	.elementor-1213 .elementor-element.elementor-element-33ac076 {width: 55%;}
+	.elementor-1213 .elementor-element.elementor-element-74d47df {width: 19.332%;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-1213 .elementor-element.elementor-element-2c57e01 {width: 40%;}
+	.elementor-1213 .elementor-element.elementor-element-74d47df {width: 60%;}}
+@media (max-width:767px) {.elementor-1213 .elementor-element.elementor-element-7afbde1 {padding: 10px 0px 10px 0px;}
+	.elementor-1213 .elementor-element.elementor-element-2c57e01 {width: 70%;}
+	.elementor-1213 .elementor-element.elementor-element-2c57e01 > .elementor-element-populated {margin: 0px 0px 0px 20px;padding: 0px 0px 0px 0px;}
+	.elementor-1213 .elementor-element.elementor-element-addeeff {text-align: left;}
+	.elementor-1213 .elementor-element.elementor-element-addeeff .elementor-image img {width: 120px;}
+	.elementor-1213 .elementor-element.elementor-element-33ac076 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
+	.elementor-1213 .elementor-element.elementor-element-74d47df {width: 30%;}
+	.elementor-1213 .elementor-element.elementor-element-74d47df > .elementor-element-populated {margin: 0px 0px 0px 0px;padding: 0px 20px 0px 0px;}
+	.elementor-1213 .elementor-element.elementor-element-7f12535 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
+	.elementor-1213 .elementor-element.elementor-element-7f12535 {align-self: center;}}
